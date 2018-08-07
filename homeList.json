@@ -1,0 +1,20 @@
+{
+  "Data" : [
+    {
+      "name" : "信息A类",
+      "productinfo" : "A类信息|可选"
+    },
+    {
+      "name" : "信息B类",
+      "productinfo" : "B类信息|可选"
+    },
+    {
+      "name" : "信息C类",
+      "productinfo" : "C类信息|可选"
+    },
+    {
+      "name" : "信息D类",
+      "productinfo" : "D类信息|可选"
+    }
+  ]
+}
